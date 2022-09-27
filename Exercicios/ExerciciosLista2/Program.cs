@@ -8,7 +8,7 @@ namespace Exercicios
     {
         static void Main(string[] args)
         {
-            /* EX 1
+            // EX 1
             int b, a, area;
 
             Console.WriteLine("Digite a base: ");
@@ -28,9 +28,9 @@ namespace Exercicios
 
                 Console.WriteLine("A area é: " + area);
             }
-            */
+            
 
-            /* EX 2
+            // EX 2
             int n;
 
             Console.WriteLine("digite o numero: ");
@@ -44,9 +44,9 @@ namespace Exercicios
             {
                 Console.WriteLine("numero impar");
             }
-            */
+            
 
-            /* EX 3
+            // EX 3
             int n1, n2, n3, n4, media;
 
             Console.WriteLine("Digite o valor 1: ");
@@ -81,10 +81,10 @@ namespace Exercicios
             {
                 Console.WriteLine("valor 4 maior que a media");
             }
-            */
+            
 
 
-            /* EX 4
+            // EX 4
             int horasProf1, horasProf2, valorProf1, valorProf2;
             float salarioProf1, salarioprof2;
 
@@ -112,9 +112,9 @@ namespace Exercicios
             {
                 Console.WriteLine("salario do professor 2 é maior");
             }
-            */
+            
 
-            /*EX 5
+            // EX 5
             float n1, n2, media, exame, mediaFinal, soma;
 
             Console.WriteLine("Digite a nota 1: ");
@@ -144,9 +144,8 @@ namespace Exercicios
                     Console.WriteLine("Reprovado!");
                 }
             }
-            */
 
-            /* EX 6
+            // EX 6
             string nome;
             float peso, altura, imc;
 
@@ -181,9 +180,9 @@ namespace Exercicios
             {
                 Console.WriteLine("obesidade grau serio");
             }
-            */
+            
 
-            /* EX 7
+            // EX 7
             string frase, palavra;
 
             Console.WriteLine("Digite uma frase: ");
@@ -200,9 +199,9 @@ namespace Exercicios
             {
                 Console.WriteLine("A palavra " + palavra + " nao encontrase na frase");
             }
-            */
+            
 
-            /* EX 8
+            // EX 8
             int codigo, vendas;
             string nome;
             double salario, salarioFinal;
@@ -238,9 +237,9 @@ namespace Exercicios
 
                 Console.WriteLine("Salario final: " + salarioFinal);
             }
-            */
+            
 
-            /* EX 9
+            // EX 9
             float glicemia1, glicemia2, glicemia3, media;
 
             Console.WriteLine("digite os seus 3 valores de glicemia em jejum");
@@ -268,9 +267,9 @@ namespace Exercicios
             {
                 Console.WriteLine("voce deve diminuir duas doses de insulina");
             }
-            */
+            
 
-            /* EX 10
+            // EX 10
             string nome1, nome2;
             int idade1, idade2;
             float altura1, altura2;
@@ -313,9 +312,9 @@ namespace Exercicios
             {
                 Console.WriteLine("Atleta mais alto possui " + altura2 + " metros");
             }
-            */
+            
 
-            /* EX 11
+            // EX 11
             int hora, minutos;
 
             Console.WriteLine("Digite a hora: ");
@@ -332,9 +331,9 @@ namespace Exercicios
             {
                 Console.WriteLine("horario invalido");
             }
-            */
+            
 
-            /* EX 12
+            // EX 12
             int numerohoras, salario, extra;
             string codigo;
 
@@ -355,9 +354,9 @@ namespace Exercicios
             }
 
             Console.WriteLine("Seu salario eh de: " + salario + "R$ \nSeu valor excedente eh de " + extra + "R$");
-            */
+            
 
-            /* EX 13
+            // EX 13
             float altura, pesoH, pesoM;
 
             Console.WriteLine("Digite a altura: ");
@@ -370,9 +369,9 @@ namespace Exercicios
             Console.WriteLine("O pesso ideal masculino eh: "+pesoH);
 
             Console.WriteLine("O peso idela feminino eh: "+pesoM);
-            */
+            
 
-            /* EX 14
+            // EX 14
             float tam, link, velocidade;
 
             Console.WriteLine("qual o tamanho do download que quer realizar em mb?");
@@ -384,9 +383,9 @@ namespace Exercicios
             velocidade = tam / link * 60;
 
             Console.WriteLine("ira demorar aproximadamente " + velocidade + " minutos");
-            */
+            
 
-            /* EX 15
+            // EX 15
             double area, tam, qtdTintas, preco, litros;
 
             Console.WriteLine("Qual o tamanho da área que deseja pintar em metros quadrados");
@@ -401,9 +400,9 @@ namespace Exercicios
             preco = qtdTintas * 80;
 
             Console.WriteLine("voce precisara de " + qtdTintas + " latas de tinta e gastara " + preco + "R$");
-            */
+            
 
-            /* EX 16
+            // EX 16
             int timeFora, timeCasa, diferenca;
 
             Console.WriteLine("qual foi o placar do jogo para o time de fora?");
@@ -418,9 +417,9 @@ namespace Exercicios
             {
                 Console.WriteLine("O time de fora se classificou");
             }
-            */
+            
 
-            /* EX 17
+            // EX 17
             int l1, l2, l3;
 
             Console.WriteLine("Digite os tres lados de um triangulo");
@@ -447,9 +446,9 @@ namespace Exercicios
             {
                 Console.WriteLine("estes valores nao correspondem a um triangulo");
             }
-            */
+            
 
-            /* EX 18
+            // EX 18
             int v1, v2, v3;
 
             Console.WriteLine("Digite o valor 1: ");
@@ -473,10 +472,10 @@ namespace Exercicios
             {
                 Console.WriteLine("Valor 3 maior valor");
             }
-            */
+            
 
 
-            /* EX 19
+            // EX 19
             float num1, num2, num3, prim, seg, terc;
 
             Console.WriteLine("Escreva tres valores");
@@ -523,9 +522,9 @@ namespace Exercicios
 
             Console.WriteLine("ORDEM CRESCENTE DOS NUMEROS");
             Console.WriteLine(prim + "\n" + seg + "\n" + terc);
-            */
+            
 
-            /* EX 20
+            // EX 20
             int numero_aleatorio = 30, chute;
 
             Console.WriteLine("tente acertar o numero");
@@ -549,7 +548,6 @@ namespace Exercicios
 
                 }
             }
-            */
 
         }
     }
