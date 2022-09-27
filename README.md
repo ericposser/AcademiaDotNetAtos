@@ -1,2 +1,2 @@
 # Academia Dot Net 2022
-Formação Dot Net entra a empresa Atos e a Universidade Franciscana - UFN.
+Formação Dot Net entre a empresa Atos e a Universidade Franciscana - UFN.
