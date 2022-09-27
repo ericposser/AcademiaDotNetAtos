@@ -8,7 +8,7 @@ namespace PrimeiraAplicação
         static void Main(string[] args)
         {
 
-            /* EX 1
+            // EX 1
             int n1, n2, soma, media;
 
             Console.WriteLine("Digite a nota 1: ");
@@ -21,10 +21,10 @@ namespace PrimeiraAplicação
             media = soma / 2;
 
             Console.WriteLine("A media eh: " + media);
-            */
+            
 
 
-            /* EXERCICIO 2
+            // EXERCICIO 2
             int n1, n2, n3, n4, soma, media;
 
             Console.WriteLine("Digite a nota 1: ");
@@ -43,9 +43,9 @@ namespace PrimeiraAplicação
             media = soma / 4;
 
             Console.WriteLine("A media eh: " + media);
-            */
+            
 
-            /* EXERCICIO 3
+            // EXERCICIO 3
             int a, b, temp;
 
             Console.WriteLine("Digite o valor de A: ");
@@ -60,9 +60,9 @@ namespace PrimeiraAplicação
             b = temp;
             
             Console.WriteLine("O valor de A vale: " + a + " O valor de B vale: " + b);
-            */
+            
 
-            /* EXERCICIO 4
+            // EXERCICIO 4
             int dia, mes, ano;
 
             Console.WriteLine("Escreva o dia (DD): ");
@@ -77,9 +77,9 @@ namespace PrimeiraAplicação
             Console.WriteLine("Data: " + ano + mes + dia + "e: " + ano + mes + dia);
 
             Console.WriteLine("Data: " + ano + mes + dia + "e: " + ano % 100 + mes + dia);
-            */
+            
 
-            /* EX 5
+            // EX 5
             double distancia, combustivel, consumo;
 
             Console.WriteLine("Digite a distancia em quilometros:");
@@ -91,9 +91,9 @@ namespace PrimeiraAplicação
             consumo = distancia / combustivel;
 
             Console.WriteLine("O consumo é: " + consumo + "km/l");
-            */
+            
 
-            /* EXERCICIO 6
+            // EXERCICIO 6
             Console.WriteLine("Informe o código do parafuso A");
             int codA = int.Parse(Console.ReadLine());
             Console.WriteLine("Informe a quantidade de parafusos A");
@@ -121,9 +121,9 @@ namespace PrimeiraAplicação
 
             Console.WriteLine("Custo total dos parafusos A:" + totalA);
             Console.WriteLine("Custo total dos parafusos B:" + totalB);
-            */
+            
 
-            /* EX 7
+            // EX 7
             Console.Write("Digite o numero do funcionario:");
             string numero = Console.ReadLine();
 
@@ -142,9 +142,9 @@ namespace PrimeiraAplicação
 
             Console.WriteLine("O numero do vendedor é: " + numero);
             Console.WriteLine("O salário total do vendedor é: R$" + wagef);
-            */
+            
 
-            /* EXERCICIO 8
+            // EXERCICIO 8
             int temperatura, f;
 
             Console.WriteLine("Digite a temperatura em C: ");
@@ -153,9 +153,9 @@ namespace PrimeiraAplicação
             f = (9 * temperatura + 160) / 5;
 
             Console.WriteLine("Temperatura convertida: " + f);
-            */
+            
 
-            /* EX 9
+            // EX 9
             Console.WriteLine("Informe o valor da mercadoria");
             double mercadoria = double.Parse(Console.ReadLine());
 
@@ -169,9 +169,9 @@ namespace PrimeiraAplicação
             double entrada = prestacao + resto;
 
             Console.WriteLine("entrade de " + entrada + " e 2x de " + prestacao);
-            */
+            
 
-            /* EX 10
+            // EX 10
             double saque = 0;
 
             int total200 = 0, total100 = 0, total50 = 0, total20 = 0, total10 = 0, total5 = 0, total2 = 0, total1 = 0;
@@ -210,9 +210,9 @@ namespace PrimeiraAplicação
             total1 = (int)(saque / 1);
             Console.WriteLine("Notas de 1: " + total1);
             saque = saque - (1 * total1);
-            */
+            
 
-            /* EX 11
+            // EX 11
             int vBrancos, vNulos, vValidos, total, pBrancos, pNulos, pValidos;
 
             Console.WriteLine("escreva qual foi o total de votos");
@@ -234,9 +234,9 @@ namespace PrimeiraAplicação
             pNulos = (vNulos * 100) / total;
 
             Console.WriteLine(pValidos + "% foram validos\n" + pBrancos + "% foram em branco\n" + pNulos + "% foram nulos");
-            */
+            
 
-            /* EXERCICIO 12
+            // EXERCICIO 12
             int marcacaoInicio, marcacaoFinal, litros, totalkm, media;
             float valor, lucro;
 
@@ -259,9 +259,9 @@ namespace PrimeiraAplicação
             lucro = (float)(valor - (litros * 6.90));
 
             Console.WriteLine("A media do consumo foi: " + media + " e o lucro do dia foi: " + lucro);
-            */
+            
 
-            /* EX 13
+            // EX 13
             double salarioMin = 0;
             double comissao = 0, custo = 0;
             int quantidade = 0;
@@ -280,7 +280,7 @@ namespace PrimeiraAplicação
             double salario = (salarioMin * 2) + comissao;
 
             Console.WriteLine("O salário resultou em: " + salario);
-            */
+            
         }
     }
 }
