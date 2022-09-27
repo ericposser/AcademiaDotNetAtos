@@ -79,7 +79,19 @@ namespace PrimeiraAplicação
             Console.WriteLine("Data: " + ano + mes + dia + "e: " + ano % 100 + mes + dia);
             */
 
-            //EX 5
+            /* EX 5
+            double distancia, combustivel, consumo;
+
+            Console.WriteLine("Digite a distancia em quilometros:");
+            distancia = Double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite a quantidade litros utilizada:");
+            combustivel = Double.Parse(Console.ReadLine());
+
+            consumo = distancia / combustivel;
+
+            Console.WriteLine("O consumo é: " + consumo + "km/l");
+            */
 
             /* EXERCICIO 6
             Console.WriteLine("Informe o código do parafuso A");
@@ -111,7 +123,26 @@ namespace PrimeiraAplicação
             Console.WriteLine("Custo total dos parafusos B:" + totalB);
             */
 
-            //EX 7
+            /* EX 7
+            Console.Write("Digite o numero do funcionario:");
+            string numero = Console.ReadLine();
+
+            Console.Write("Digite o salario: R$");
+            double salario = Double.Parse(Console.ReadLine());
+
+            Console.Write("Digite o total de vendas: R$");
+            double vendas = Double.Parse(Console.ReadLine());
+
+            Console.Write("Digite o percentual de vendas (%):");
+            double percent = Double.Parse(Console.ReadLine());
+
+            double percentf = (vendas / 100) * percent;
+            double wagef = salario + percentf;
+
+
+            Console.WriteLine("O numero do vendedor é: " + numero);
+            Console.WriteLine("O salário total do vendedor é: R$" + wagef);
+            */
 
             /* EXERCICIO 8
             int temperatura, f;
@@ -181,7 +212,29 @@ namespace PrimeiraAplicação
             saque = saque - (1 * total1);
             */
 
-            // EX 11
+            /* EX 11
+            int vBrancos, vNulos, vValidos, total, pBrancos, pNulos, pValidos;
+
+            Console.WriteLine("escreva qual foi o total de votos");
+            total = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("escreva qual foi o total de votos em branco");
+            vBrancos = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("escreva qual foi o total de votos nulos");
+            vNulos = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("escreva qual foi o total de votos validos");
+            vValidos = int.Parse(Console.ReadLine());
+
+            pValidos = (vValidos * 100) / total;
+
+            pBrancos = (vBrancos * 100) / total;
+
+            pNulos = (vNulos * 100) / total;
+
+            Console.WriteLine(pValidos + "% foram validos\n" + pBrancos + "% foram em branco\n" + pNulos + "% foram nulos");
+            */
 
             /* EXERCICIO 12
             int marcacaoInicio, marcacaoFinal, litros, totalkm, media;
