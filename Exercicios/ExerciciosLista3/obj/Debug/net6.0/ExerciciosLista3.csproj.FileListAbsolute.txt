@@ -1,0 +1,15 @@
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\bin\Debug\net6.0\ExerciciosLista3.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\bin\Debug\net6.0\ExerciciosLista3.deps.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\bin\Debug\net6.0\ExerciciosLista3.runtimeconfig.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\bin\Debug\net6.0\ExerciciosLista3.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\bin\Debug\net6.0\ExerciciosLista3.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ExerciciosLista3.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ExerciciosLista3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ExerciciosLista3.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ExerciciosLista3.AssemblyInfo.cs
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ExerciciosLista3.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ExerciciosLista3.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\refint\ExerciciosLista3.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ExerciciosLista3.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ExerciciosLista3.genruntimeconfig.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista3\obj\Debug\net6.0\ref\ExerciciosLista3.dll
