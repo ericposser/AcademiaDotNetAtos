@@ -279,6 +279,40 @@ namespace Lista4
             }
 
             //EX 10
+            int[] vetorA = new int[5], vetorB = new int[5], vetoraux = new int[5];
+            int i;
+
+            for (i = 0; i < 5; i++)
+            {
+
+                Console.WriteLine("Digite os valores para o vetor: ");
+                vetorA[i] = int.Parse(Console.ReadLine());
+
+            }
+
+            Console.WriteLine("--Vetores lidos--");
+
+            for (i = 0; i < 5; i++)
+            {
+                Console.WriteLine(vetorA[i]);
+            }
+
+            Console.WriteLine("--Resultado--");
+
+            for (i = 0; i < 5; i++)
+            {
+                if (vetorA[i] == 0)
+                {
+                    vetoraux[i] = 2;
+                    vetorB[i] = vetoraux[i];
+
+                }
+            }
+
+            for (i = 0; i < 5; i++)
+            {
+                Console.WriteLine(vetorB[i]);
+            }
 
             //EX 11
             int[] vetor = new int[5];
