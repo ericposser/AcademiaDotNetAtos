@@ -308,19 +308,19 @@ namespace Lista4
             }
 
             //EX 12
-            int[] vetor = new int[3];
+            int[] vetor = new int[10];
             int i, n, cont = 0;
 
             Console.WriteLine("Digite o numero: ");
             n = int.Parse(Console.ReadLine());
 
-            for (i = 0; i < 3; i++)
+            for (i = 0; i < 10; i++)
             {
                 Console.WriteLine("Digite os valores para o vetor: ");
                 vetor[i] = int.Parse(Console.ReadLine());
             }
 
-            for (i = 0; i < 3; i++)
+            for (i = 0; i < 10; i++)
             {
                 if (n == vetor[i])
                 {
