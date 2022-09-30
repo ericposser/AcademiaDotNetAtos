@@ -260,23 +260,17 @@ namespace Lista4
             }
 
             //EX 9
-            int[] vetor = new int[10], vetoraux = new int[10];
-            int i, aux = 0;
+            int[] vetor = new int[10];
 
-            for (i = 0; i < 10; i++)
+            for (int i = 0; i < vetor.Length; i++)
             {
-                Console.WriteLine("Digite os valores para o vetor: ");
+                Console.Write("Digite os valores para o vetor: ");
                 vetor[i] = int.Parse(Console.ReadLine());
             }
 
-            for (i = 0; i < 10; i++)
-            {
-                aux = vetor[i];
-                vetor[i] = vetoraux[i];
-                vetoraux[i] = aux;
-
-                Console.WriteLine(vetoraux[i]);
-            }
+            Array.Sort(vetor);
+            Console.Write("\n\n");
+            foreach (int i in vetor) Console.WriteLine(i);
 
             //EX 10
             int[] vetorA = new int[5], vetorB = new int[5], vetoraux = new int[5];
@@ -450,10 +444,108 @@ namespace Lista4
             }
 
             //EX 15
+             int[] vetorA = new int[20], vetorB = new int[20];
+            int i;
+            int[] vetorCont = new int[20];
+
+            for (i = 0; i < vetorA.Length; i++)
+            {
+                Console.WriteLine("Digite os valores para o vetor: ");
+                vetorA[i] = int.Parse(Console.ReadLine());
+
+                vetorCont[vetorA.Length - (i + 1)] = vetorA[i];
+            }
+
+            Console.WriteLine("--Valores do vetor noramal--");
+
+            for (i = 0; i < 20; i++)
+            {
+                Console.WriteLine(vetorA[i]);
+            }
+
+            Console.WriteLine("--Valores do vetor invertido--");
+
+            for (i = 0; i < vetorCont.Length; i++)
+            {
+                vetorA[i] = vetorB[i];
+
+                Console.WriteLine(vetorCont[i]);
+
+            }
 
             //EX 16
+            double[] vetorA = new double[10], vetorB = new double[10], vetorU = new double[20], vetorD = new double[10], vetorI = new double[10];
+            int c = 0, cont = 0;
+            Console.WriteLine("Escreva os valores para o primeiro vetor");
+            for (int i = 0; i < 10; i++)
+            {
+                vetorA[i] = double.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Escreva os valores para o segundo vetor");
+            for (int i = 0; i < 10; i++)
+            {
+                vetorB[i] = double.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i < 20; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    vetorU[i] = vetorA[cont];
+                    cont++;
+                }
+                else
+                {
+                    vetorU[i] = vetorB[c];
+                    c++;
+                }
+
+            }
+            for (int i = 0; i < 10; i++)
+            {
+                vetorD[i] = (vetorA[i] - vetorB[i]);
+            }
+            c = 0;
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    if (vetorA[i] == vetorB[j])
+                    {
+                        vetorI[c] = vetorA[i];
+                        c++;
+                    }
+                }
+            }
+            Console.WriteLine("-------Mostrando vetor com a uniao de A e B--------");
+
+            for (int i = 0; i < 20; i++)
+            {
+                Console.WriteLine("vetor [" + i + "] = " + vetorU[i]);
+            }
 
 
+
+            Console.WriteLine("-------Mostrando vetor com a diferença de A e B--------");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("vetor [" + i + "] = " + vetorD[i]);
+            }
+
+
+            if (c != 0)
+            {
+                Console.WriteLine("-------Mostrando vetor com a intersecção de A e B--------");
+
+                for (int i = 0; i < c; i++)
+                {
+                    Console.WriteLine("vetor [" + i + "] = " + vetorI[i]);
+
+                }
+            }
+            else
+            {
+                Console.WriteLine("a intersecção entre os dois não existe");
+            }
 
         }
 
