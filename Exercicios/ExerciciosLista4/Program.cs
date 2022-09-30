@@ -308,29 +308,31 @@ namespace Lista4
             }
 
             //EX 12
-            int[] vetor = new int[10];
-            int i, n;
+            int[] vetor = new int[3];
+            int i, n, cont = 0;
 
             Console.WriteLine("Digite o numero: ");
             n = int.Parse(Console.ReadLine());
 
-            for (i = 0; i < 10; i++)
+            for (i = 0; i < 3; i++)
             {
                 Console.WriteLine("Digite os valores para o vetor: ");
                 vetor[i] = int.Parse(Console.ReadLine());
             }
 
-            for (i = 0; i < 10; i++)
+            for (i = 0; i < 3; i++)
             {
                 if (n == vetor[i])
                 {
                     Console.WriteLine("Seu numero existe na posicao: " + i);
-                }
-                else
-                {
-                    Console.WriteLine("O número fornecido não existe no vetor");
+                    cont++;
                 }
 
+            }
+
+            if(cont == 0)
+            {
+                Console.WriteLine("O número fornecido não existe no vetor!");
             }
 
 
