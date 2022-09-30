@@ -390,9 +390,158 @@ namespace Lista3
             Console.WriteLine("Numero de pessoas do sexo feminino: " + sexoM);
             Console.WriteLine("Número de pessoas com idade inferior a 30 anos: " + menosTrinta);
             Console.WriteLine("Número de pessoas com idade superior a 60 anos: " + maisSecenta);
+            
+            // EX 11
+            string num;
+            int alunos = 0;
+            double nota, media = 0, menor=100 , maior=0 ;
+            for(; ; )
+            {
+                Console.WriteLine("quer continuar?(se sim digite qualquer tecla, se nao digite -1");
+                num = Console.ReadLine();
+                if (num == "-1") { break; }
+                else
+                {
+                    alunos++;
+                    Console.WriteLine("qual foi a nota do aluno?");
+                    nota=double.Parse(Console.ReadLine());
+                    media = nota + media;
+                    if (nota < menor)
+                    {
+                        menor = nota;
+                    }
+                     if(nota>maior){
+                        maior = nota;
+                    }
+                }
+            }
+            media = media / alunos;
+            Console.WriteLine("media da turma: "+media+ "\nmenor nota: "+menor+"\nmaior nota:"+maior);
+            
+            // EX 12
+            
+             int  soma=0;
+            for(int i = 0; i < 100; i++)
+            {
+                
+                soma = soma + i;
+            }
+            Console.WriteLine("Soma de todos:"+soma);
+            
+            // EX 13
+            int num, soma = 0;
+            for (int i = 0; i < 500; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    soma = soma + i;
+                }
+            }
+            Console.WriteLine("Soma de todos:" + soma);
+            
+            // EX 14
+            double b = 2; 
+            for (int i = 0; i <= 10; i++)
+            {
+                double p = i;
+                double num;
+                num = Math.Pow(b, p);
+                Console.WriteLine(num);
+            }
+            
+            // EX 15
+            double nota1, nota2, nota3, nota4,media;
+            Console.WriteLine("Escreva suas 4 notas");
+            nota1 = double.Parse(Console.ReadLine());
+            nota2 = double.Parse(Console.ReadLine());
+            nota3 = double.Parse(Console.ReadLine());
+            nota4 = double.Parse(Console.ReadLine());
+            media = (nota1 * 2) + nota2 + (nota3 * 2) + (nota4 * 4);
+            media = media / 9;
+            if (media >= 7)
+            {
+                Console.WriteLine("aprovado");
+            }
+            else
+            {
+                Console.WriteLine("reprovado");
+            }
 
+            // EX 16
+            double num;
+            Console.WriteLine("digite o numero");
+            num=double.Parse(Console.ReadLine());
+            if (num <= 50)
+            {
+                for (int i = 1; ; i++)
+                {
+                    double produto = num * (Math.Pow(3, i));
+                    if (produto > 250)
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine(produto);
+                    }
+                }
+                
+                // EX 17
+                double quadrado;
+                for (int i = 15; i <= 200; i++)
+                {
+                    quadrado = i * i;
+                    Console.WriteLine(i+" ao quadrado="+quadrado);
+                }
 
-
+                
+                // EX 18
+                double p, b,e;
+                Console.WriteLine("Digite qual base deseja?");
+                b=double.Parse(Console.ReadLine());
+                
+                Console.WriteLine("Digite qual expoente deseja");
+                e=double.Parse(Console.ReadLine());
+                
+                p= Math.Pow(b,e);
+                
+                Console.WriteLine("A potencia ficou= "+p);
+            
+                // EX 19
+                 int salario, media_salario=0, filhos, media_filhos=0,psalario=0,familia=0, maior=0;
+                for(; ; )
+                {
+                    Console.WriteLine("qual seu salario?");
+                    salario=int.Parse(Console.ReadLine());
+                    if (salario < 0)
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        familia++;
+                        media_salario = salario + media_salario;
+                        if (salario > maior)
+                        {
+                            maior = salario;
+                        }
+                        if (salario < 100)
+                        {
+                            psalario++;
+                        }
+                    }
+                    Console.WriteLine("quantos filhos voce tem?");
+                    filhos = int.Parse(Console.ReadLine());
+                    media_filhos= filhos+ media_filhos;
+                }
+                media_salario = media_salario / familia;
+                
+                psalario = psalario * 100 / familia;
+                
+                media_filhos= media_filhos / familia;
+                
+                Console.WriteLine("o maior salario eh de:"+maior+"R$\nA media de salario eh de:"+media_salario+"R$\nA porcentagem de pessoas que ganham menos de 100R$ eh de:"+psalario+"%\n A media de filhos eh de:"+media_filhos);
+            
         }
     }
 }
