@@ -1,0 +1,15 @@
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ExerciciosLista7.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ExerciciosLista7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ExerciciosLista7.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ExerciciosLista7.AssemblyInfo.cs
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ExerciciosLista7.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\bin\Debug\net6.0\ExerciciosLista7.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\bin\Debug\net6.0\ExerciciosLista7.deps.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\bin\Debug\net6.0\ExerciciosLista7.runtimeconfig.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\bin\Debug\net6.0\ExerciciosLista7.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\bin\Debug\net6.0\ExerciciosLista7.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ExerciciosLista7.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\refint\ExerciciosLista7.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ExerciciosLista7.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ExerciciosLista7.genruntimeconfig.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AcademiaDotNetAtos\Exercicios\ExerciciosLista7\ExerciciosLista7\obj\Debug\net6.0\ref\ExerciciosLista7.dll
