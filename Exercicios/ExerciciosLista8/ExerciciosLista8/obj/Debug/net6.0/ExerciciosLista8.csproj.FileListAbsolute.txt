@@ -1,0 +1,15 @@
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ExerciciosLista8.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ExerciciosLista8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ExerciciosLista8.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ExerciciosLista8.AssemblyInfo.cs
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ExerciciosLista8.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\bin\Debug\net6.0\ExerciciosLista8.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\bin\Debug\net6.0\ExerciciosLista8.deps.json
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\bin\Debug\net6.0\ExerciciosLista8.runtimeconfig.json
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\bin\Debug\net6.0\ExerciciosLista8.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\bin\Debug\net6.0\ExerciciosLista8.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ExerciciosLista8.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\refint\ExerciciosLista8.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ExerciciosLista8.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ExerciciosLista8.genruntimeconfig.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\ExerciciosLista8\ExerciciosLista8\obj\Debug\net6.0\ref\ExerciciosLista8.dll
