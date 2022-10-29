@@ -1,0 +1,75 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+body{
+   background-color: grey;
+}
+
+h2{
+    text-align: center;
+    color: rgb(71, 71, 71);
+    font-weight: bold;
+}
+
+img{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(71, 71, 71);
+
+}
+
+td, tr{
+    color: rgb(44, 44, 44);
+}
+
+a{
+    margin-left: 30%;
+    text-decoration:none;
+    color:rgb(0, 0, 0);
+}
+
+a:hover{
+    color: rgb(0, 0, 117);
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+form{
+    background-color: rgb(71, 71, 71);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius: 15px;
+}
+
+input{
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+#botao{
+    background-color: dodgerblue;
+    padding: 10px;
+    width: 100%;
+    border-radius: 10px;
+    font-size: 15px;
+}
