@@ -1,0 +1,17 @@
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\bin\Debug\net6.0-windows\AtividadeWinForm.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\bin\Debug\net6.0-windows\AtividadeWinForm.deps.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\bin\Debug\net6.0-windows\AtividadeWinForm.runtimeconfig.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\bin\Debug\net6.0-windows\AtividadeWinForm.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\bin\Debug\net6.0-windows\AtividadeWinForm.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.Form1.resources
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.csproj.GenerateResource.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.AssemblyInfo.cs
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\refint\AtividadeWinForm.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\AtividadeWinForm.genruntimeconfig.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AtividadeWinForm\AtividadeWinForm\obj\Debug\net6.0-windows\ref\AtividadeWinForm.dll
