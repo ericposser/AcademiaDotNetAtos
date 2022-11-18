@@ -1,0 +1,15 @@
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\bin\Debug\net6.0\AulaInterface.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\bin\Debug\net6.0\AulaInterface.deps.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\bin\Debug\net6.0\AulaInterface.runtimeconfig.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\bin\Debug\net6.0\AulaInterface.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\bin\Debug\net6.0\AulaInterface.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\AulaInterface.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\AulaInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\AulaInterface.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\AulaInterface.AssemblyInfo.cs
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\AulaInterface.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\AulaInterface.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\refint\AulaInterface.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\AulaInterface.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\AulaInterface.genruntimeconfig.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaInterface\AulaInterface\obj\Debug\net6.0\ref\AulaInterface.dll

@@ -1,0 +1,15 @@
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\bin\Debug\net6.0\AulaDicionario.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\bin\Debug\net6.0\AulaDicionario.deps.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\bin\Debug\net6.0\AulaDicionario.runtimeconfig.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\bin\Debug\net6.0\AulaDicionario.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\bin\Debug\net6.0\AulaDicionario.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\AulaDicionario.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\AulaDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\AulaDicionario.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\AulaDicionario.AssemblyInfo.cs
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\AulaDicionario.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\AulaDicionario.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\refint\AulaDicionario.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\AulaDicionario.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\AulaDicionario.genruntimeconfig.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaDicionario\AulaDicionario\obj\Debug\net6.0\ref\AulaDicionario.dll

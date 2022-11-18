@@ -1,0 +1,15 @@
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\bin\Debug\net6.0\AulaArquivo.exe
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\bin\Debug\net6.0\AulaArquivo.deps.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\bin\Debug\net6.0\AulaArquivo.runtimeconfig.json
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\bin\Debug\net6.0\AulaArquivo.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\bin\Debug\net6.0\AulaArquivo.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\AulaArquivo.csproj.AssemblyReference.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\AulaArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\AulaArquivo.AssemblyInfoInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\AulaArquivo.AssemblyInfo.cs
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\AulaArquivo.csproj.CoreCompileInputs.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\AulaArquivo.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\refint\AulaArquivo.dll
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\AulaArquivo.pdb
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\AulaArquivo.genruntimeconfig.cache
+C:\Users\eric_\OneDrive\Área de Trabalho\AulaArquivo\AulaArquivo\obj\Debug\net6.0\ref\AulaArquivo.dll
