@@ -10,7 +10,7 @@ namespace Desafio02.Classes
 {
     internal class Banco
     {
-        private string stringConexao = "Data Source=localhost; Initial Catalog=loja_db; User ID=sa; password=99278605eeE;language=Portuguese";
+        private string stringConexao = "Data Source=localhost; Initial Catalog=; User ID=; password=;language=Portuguese";
 
         private SqlConnection cn;
 
